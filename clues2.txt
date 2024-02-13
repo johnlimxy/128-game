@@ -8,3 +8,4 @@ masarap - group 4
 tara - group 3
 november - group 4
 masaya - group 1
+shawarma - group 1
