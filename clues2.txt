@@ -3,4 +3,6 @@ park - group 4
 bonding - group 1
 walang tulugan - group 3
 maingay - group 2
-pagod - group 1
+makalat - group 2
+masarap - group 4
+masaya - group 1
