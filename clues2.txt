@@ -4,3 +4,4 @@ bonding - group 1
 walang tulugan - group 3
 maingay - group 2
 makalat - group 2
+tayatayaan - group 2
