@@ -5,3 +5,4 @@ walang tulugan - group 3
 maingay - group 2
 makalat - group 2
 masarap - group 4
+tara - group 3
