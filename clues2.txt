@@ -6,3 +6,4 @@ maingay - group 2
 makalat - group 2
 masarap - group 4
 tara - group 3
+november - group 4
